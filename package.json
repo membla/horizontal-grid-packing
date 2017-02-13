@@ -16,6 +16,7 @@
     "url": "https://github.com/jonathanong/horizontal-grid-packing/issues",
     "email": "me@jongleberry.com"
   },
+  "main": "dist/horizontal-grid-packing.js",
   "license": "MIT",
   "devDependencies": {
     "jade": "*",
